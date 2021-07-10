@@ -16,4 +16,5 @@ Atualmente estou trilhando minha carreira para o frontend, portanto você irá e
 
 #### Estudando 
 - Bootcamp HTML Web - Digital Innovation One
+- Javascript
 
