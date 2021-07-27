@@ -15,6 +15,5 @@ Atualmente estou trilhando minha carreira para o frontend, portanto você irá e
 - Git
 
 #### Estudando 
-- Bootcamp HTML Web - Digital Innovation One
 - Javascript
 
