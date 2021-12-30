@@ -10,10 +10,11 @@ Atualmente estou trilhando minha carreira para o frontend, portanto você irá e
 ### Tecnologias 💻
 - Java
 - Microsoft SQL Server
-- HTML
-- CSS
+- HTML & CSS
 - Git
+- Javascript
 
 #### Estudando 
-- Javascript
+
+- React Native
 
