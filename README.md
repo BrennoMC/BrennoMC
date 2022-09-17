@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/brenno-cavalcante-90b581171/)](https://www.linkedin.com/in/brenno-cavalcante-90b581171/)
 
 ## Bem vindo(a) ao meu perfil! 
-Sou desenvolvedor de sistemas e estudante do Colégio Técnico de Campinas - COTUCA.
+Sou desenvolvedor de sistemas e graduando de Sistemas de Informação.
 Atualmente estou trilhando minha carreira para o frontend, portanto você irá encontrar projetos web neste perfil!
 
 ### Tecnologias 💻
