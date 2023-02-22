@@ -16,5 +16,5 @@ Atualmente estou trilhando minha carreira para o frontend, portanto você irá e
 
 #### Estudando 
 
-- React Native
+- React JS
 
